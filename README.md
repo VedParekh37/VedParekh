@@ -1,12 +1,4 @@
-- 👋 Hi, I’m VedParekh
-- 👀 I’m interested in Software Devlopment...
-- 🌱 I’m currently learning India ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG:-vedparekh, 
-                     Twittter:-VedParekh37
-                     E-mail:-vedparekh2005@gmail.com...
-
-<!---
-VedParekh37/VedParekh37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ved
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me :- vedparekh2005@gmail.com
+- 🧑‍💻 All of my projects are avaliable at https://github.com/VedParekh37/VedParekh
